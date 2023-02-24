@@ -1,0 +1,15 @@
+D:\Учеба GreekBrains\Итоговая работа первого блока\bin\Debug\net7.0\Итоговая работа первого блока.exe
+D:\Учеба GreekBrains\Итоговая работа первого блока\bin\Debug\net7.0\Итоговая работа первого блока.deps.json
+D:\Учеба GreekBrains\Итоговая работа первого блока\bin\Debug\net7.0\Итоговая работа первого блока.runtimeconfig.json
+D:\Учеба GreekBrains\Итоговая работа первого блока\bin\Debug\net7.0\Итоговая работа первого блока.dll
+D:\Учеба GreekBrains\Итоговая работа первого блока\bin\Debug\net7.0\Итоговая работа первого блока.pdb
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\Итоговая работа первого блока.csproj.AssemblyReference.cache
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\Итоговая работа первого блока.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\Итоговая работа первого блока.AssemblyInfoInputs.cache
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\Итоговая работа первого блока.AssemblyInfo.cs
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\Итоговая работа первого блока.csproj.CoreCompileInputs.cache
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\Итоговая работа первого блока.dll
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\refint\Итоговая работа первого блока.dll
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\Итоговая работа первого блока.pdb
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\Итоговая работа первого блока.genruntimeconfig.cache
+D:\Учеба GreekBrains\Итоговая работа первого блока\obj\Debug\net7.0\ref\Итоговая работа первого блока.dll
